@@ -1,4 +1,4 @@
-var strdt = "202203130622";
+var strdt = "202203130625";
 var now = new Date();
 
 year = now.getFullYear();
